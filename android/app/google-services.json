@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718877448303",
+    "project_id": "myflutter-app-9a3b8",
+    "storage_bucket": "myflutter-app-9a3b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718877448303:android:6c5d731088317405f6159a",
+        "android_client_info": {
+          "package_name": "com.example.aluventure_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_SEW-fcQ45G8wiURj5IfJHHSXCF1QTI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
